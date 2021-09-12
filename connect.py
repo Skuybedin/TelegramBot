@@ -2,7 +2,7 @@ import mysql.connector
 from mysql.connector import Error
 from data import logger
 
-token = "1869294186:AAFTKrzNeuAn4AU2nrYRGB7gItbdAx2ROyM"
+token = "TOKEN"
 
 connection = None
 try:
